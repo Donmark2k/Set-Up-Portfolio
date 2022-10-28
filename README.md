@@ -1,15 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set-Up-Portfolio
 
 > Description the project.
-
+In this project, I set up a "Set-Up-Portfolio" repository for my portfolio.
 
 ## Built With
 
 - Major languages
+  css, html 
 - Frameworks
 - Technologies used
+    VS code, git, github, figma
 
 ## Live Demo (if available)
 
@@ -25,6 +27,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Fundamental of HTML, CSS
 
 ### Setup
 
@@ -40,17 +43,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ochuba Chukwuemeka**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Donmark2k](https://github.com/Donmark2k)
+- Twitter: [@Donmark2k](https://twitter.com/donmark2k)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-ochuba/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
